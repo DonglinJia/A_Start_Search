@@ -1,4 +1,4 @@
-# A* Search
+# A* Search Implementation
 
 The A* search is a search algorithm that find the optimal soltion.
 
