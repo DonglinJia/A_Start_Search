@@ -16,3 +16,5 @@ th state.
 3. A mix of lowest-cost-first and greedy best-first search
 4. Select the node in the frontier with the lowest estimated distance from the start to a
 goal node constrained to go via that node
+
+For more explanation, please visit https://donglinjia.github.io/angular-website/assets/files/AI.pdf page 11.
